@@ -49,7 +49,7 @@ $ bundle update
 
 Next you should configure Travis-CI.
 
-### Travis-CI 🤖
+### Travis-CI
 Also have a look at the [travis.yml](sample/travis.yml) file.
 
 The important environment variables you need to have set are:
