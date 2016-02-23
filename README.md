@@ -58,6 +58,7 @@ The important environment variables you need to have set are:
 
 | **Environment variable**      	| **Description**                                                                            	|
 |--------------------------------	|--------------------------------------------------------------------------------------------	|
+| `PROJECT_NAME`                  | The name of the project/module, used for deployment.                                       	|
 | `PROJECT`                      	| Which Xcode project file to use when building.                                             	|
 | `SCHEME`                       	| Which Xcode scheme to use.                                                                 	|
 | `BUILD_ACTIONS`                	| The build actions that should be passed to `xcodebuild`, e.g. `build` or `build test`.     	|
