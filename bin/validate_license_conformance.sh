@@ -47,6 +47,7 @@ for SOURCE_FILE in $LICENSED_SOURCE_FILES; do
             "$SOURCE_FILE") \
         &> /dev/null
 
+    # shellcheck disable=SC2181
     if [ "$?" == "0" ]; then
         echo -en "${FORMAT_SUCCESS}${SYMBOL_SUCCESS}${FORMAT_RESET}    \"${SOURCE_FILE}\""
     else
