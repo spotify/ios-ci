@@ -1,5 +1,9 @@
 # Spotify CI Scripts
 
+| 🚨 | **No longer maintained** | 🚨 |
+| -- | -------------- | -- |
+| 🚨 | Spotify has stopped using the tools in `ios-ci` for our open source projects. | 🚨 |
+
 [![Build Status](https://travis-ci.org/spotify/ios-ci.svg?branch=master)](https://travis-ci.org/spotify/ios-ci)
 ![Platforms supported: iOS, tvOS, watchOS and OS X](https://img.shields.io/badge/platform-iOS%20%7C%20tvOS%20%7C%20watchOS%20%7C%20OS%20X-blue.svg)
 
